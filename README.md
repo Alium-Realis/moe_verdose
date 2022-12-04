@@ -1,6 +1,4 @@
-# Needy_girl_overdose_theme
-![image](./images/screenshot1.png)
-![image](./images/screenshot2.png)
+# Moe_Verdose Theme
 ## How to use?
 1. Clone this project
    ```sh
